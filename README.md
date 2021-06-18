@@ -15,6 +15,10 @@ Punarapi is an easy way to make a difference in your own carbon footprint and ta
 ## PPT
 [VAMDA-Punarapi.pdf](https://github.com/ArpithaV29/wit-hackathon-VAMDA/files/6677913/VAMDA-Punarapi.pdf)
 
+## Screenshot of our website
+![image](https://user-images.githubusercontent.com/65852760/122588248-7c029c00-d07c-11eb-94de-da69bb8cadcb.png)
+
+
 ## Output for our website Punarapi.
 ![image](https://user-images.githubusercontent.com/71244228/122582497-dba97900-d075-11eb-9b6a-9add1cfd9369.png)
 ![image](https://user-images.githubusercontent.com/71244228/122582434-cb919980-d075-11eb-9ad3-f9270aa6ac9d.png)
